@@ -1,0 +1,33 @@
+
+h1{
+    text-shadow: 2px 2px 1px grey,  3px 3px red ;
+}
+
+h1, h2{
+    font-size : 2em;
+}
+.centeredText{
+    text-align: center;
+}
+
+#redBorderedElem{
+    border : 5px solid red;    
+}
+
+#justifiedText{
+    text-align: justify;
+    width : 500px;
+    text-indent: 200px;
+}
+
+#verticalAlignedElems{
+    display: inline-block;
+    height  : 100px;
+    border  : 3px dotted black;   
+    vertical-align: middle;    
+}
+
+#table01 td{
+    vertical-align: bottom;
+}
+

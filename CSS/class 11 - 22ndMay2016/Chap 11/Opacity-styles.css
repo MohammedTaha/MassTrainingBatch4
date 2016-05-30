@@ -1,0 +1,18 @@
+body{
+    background: green;
+}
+
+#d1, #d2{
+    border : 2px solid red;
+}
+
+#d1{
+    background: red;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+
+#d2 {
+    background: grey;
+    opacity: 0.75;
+}
