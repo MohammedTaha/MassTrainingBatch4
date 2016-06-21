@@ -1,0 +1,27 @@
+div{
+ //   height : 300px;
+   // width : 300px;
+    background-color: red;
+}
+p{
+    height: 325px;
+    width : 325px;
+    background-color: green;
+}
+
+.size-width{
+    width: 50%;
+    width: 50%;
+    border: 8px solid black;
+}
+#image-container{
+    border : 4px solid black;
+    width : 40%;
+    min-width: 200px;
+    height : 300px;
+}
+
+#scroll{
+    overflow-x  : scroll;
+    border : 4px solid black;
+}
