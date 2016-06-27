@@ -1,0 +1,10 @@
+li{
+	display : inline-block;
+	margin : 30px;
+}
+li.notavailable{
+	display : none ;
+}
+li.visible{
+	visibility: hidden;
+}

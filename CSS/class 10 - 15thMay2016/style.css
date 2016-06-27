@@ -6,6 +6,8 @@ h1~p{
 }
 body{
 	//font-family: Georgia, 'Times New Roman', Times, serif;
+	background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.5);
+
 }
 body { font-family: Arial, Verdana, sans-serif; color: #665544; padding: 10px;} 
 .page { border: 1px solid #665544; background-color: #efefef;  padding: inherit;} 

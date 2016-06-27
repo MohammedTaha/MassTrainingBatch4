@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+}
+p.one{
+	border : 5px solid black;
+	padding : 20px;
+	width : 200px;
+	height : 50px;
+	margin : 10px;
+}
+p.two{
+	border : 5px solid black;
+	margin : 50px auto 50px auto;
+	width : 200px;
+	
+}
